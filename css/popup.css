@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Indie+Flower");
-@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Poor+Story");
+
 body {
   font-family: "Indie Flower";
   font-size: 14px;
@@ -18,14 +19,10 @@ h4 {
 
 p {
   text-align: center;
-  font-family: "Quicksand";
-  font-size: 12px;
+  font-family: "Poor Story";
   font-style: normal;
+  font-size: 12px;
   font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/quicksand/v30/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58m-wi40.woff2)
-    format("woff2");
-  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1,
-    U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
 
 #button {
